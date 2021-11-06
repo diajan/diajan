@@ -15,7 +15,7 @@
 
 <strong align="left"> 
   Hi, I'm Mahdi Aghajan. I am a Front-end developer.<br/>
-  I focused on web development, specially front-end.
+  I focused on web development, specially front-end.<br/>
   I love technologies and open-source world
   <br/>
 <!--   You'll can see my resume in the below link. -->
