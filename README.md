@@ -14,7 +14,7 @@
 ### - About Me
 
 <strong align="left"> 
-  Hi, I'm Mahdi Aghajan. I am a Front-end developer.<br/>
+  Hi, I am a Front-end developer.<br/>
   I focused on web development, specially front-end.<br/>
   I love technologies and open-source world
   <br/>
@@ -24,18 +24,6 @@
 <br/>
 <br/>
 <br/>
-
-<!-- <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p> -->
 
 <p align="left">
   <a href="mailto:m.mahdi.aghajan@gmail.com" alt="Gmail">
