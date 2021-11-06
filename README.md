@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... The new Technology
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [Gmail](mailto:m.mahdi.aghajan@gmail.com)
-- 😄 Pronouns: /[He|him]/i
+- 😄 Pronouns: /[He | him]/i
 - ⚡️ Fun fact: (:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -15,8 +15,8 @@
 
 <strong align="left"> 
   Hi, I'm Mahdi Aghajan. I am a Front-end developer.<br/>
-  I started to learn 4 years ago, I worked on server-side programming languages such as python, ruby, PHP<br/>
-  but I now focused on web development, specially front-end
+  I focused on web development, specially front-end.
+  I love technologies and open-source world
   <br/>
 <!--   You'll can see my resume in the below link. -->
 </strong>
