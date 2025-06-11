@@ -14,7 +14,7 @@
 ### - About Me
 
 <strong align="left"> 
-  Hi, I am a Front-end developer.<br/>
+  Hi, I am a Full-stack developer.<br/>
   I focused on web development, specially front-end.<br/>
   I love technologies and open-source world
   <br/>
@@ -40,5 +40,5 @@
 <code><img height="32" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="tailwind"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
